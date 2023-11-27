@@ -1,0 +1,20 @@
+"description": "This project was created by Rio.",
+  "main": "index.tsx",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoanhDuc/Rio-Social-URL.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "react",
+    "react-component",
+    "component"
+  ],
+  "author": "Duc Nguyen Rio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoanhDuc/Rio-Social-URL/issues"
+  },
+  "homepage": "https://github.com/HoanhDuc/Rio-Social-URL#readme"
