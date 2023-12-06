@@ -1,6 +1,6 @@
 {
   "name": "rio-social-url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -16,6 +16,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "react-social-icons": "^6.7.0",
+    "rio-social-url": "^0.1.0",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
