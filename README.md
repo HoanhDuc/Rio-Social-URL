@@ -3,7 +3,7 @@ React Social Tag (Rio)
 A set of beautiful svg social icons. Easily used in React. No images or external css dependencies. Example
 
 icons for all social networks configured in this library
-
+![Alt text](image.png)
 Install
 npm install rio-social-url
 yarn add rio-social-url
